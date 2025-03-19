@@ -1,4 +1,4 @@
-package com.mn.jacobi;
+//package com.mn.jacobi;
 
 import javafx.beans.property.ReadOnlyObjectWrapper;
 import javafx.beans.property.SimpleIntegerProperty;
@@ -13,7 +13,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class MetodoJacobi extends Stage {
+/*public class MetodoJacobi extends Stage {
 
     Button btnLlenaDatos;
     TableView table;
@@ -363,4 +363,4 @@ class Iteracion{
     public void setError(double[] error) {
         this.error = error;
     }
-}
+}*/
